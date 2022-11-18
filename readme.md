@@ -25,7 +25,7 @@ Hi, I’m HUANG BEIXI（GZ，Guangdong，PRC）
 * cooperative
 * persevering
 ## My Work
-The portfolio consists of **eleven main parts**
+The portfolio consists of **twelve main parts**
 * [Audio Visual Language](./resource/Audio_Visual_Language)
 * [Social Culture in Film](./resource/Social_Culture_in_Film)
 * [Constitution and Basic Law](./resource/Constitution_and_Basic_Law)
