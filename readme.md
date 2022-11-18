@@ -34,6 +34,7 @@ The portfolio consists of **eleven main parts**
 * [Screenplay Writing](./resource/Screenplay_Writing)
 * [General Theory of Chinese and Western Culture](./resource/General_Theory_of_Chinese_and_Western_Culture)
 * [Landscape Photography](./resource/Landscape_Photography)
+* [Animal Photography](./resource/Animal_Photography)
 * [Portrait Photography](./resource/Portrait_Photography)
 * [Team Photography](./resource/Team_Photography)
 * Movies / Videos
